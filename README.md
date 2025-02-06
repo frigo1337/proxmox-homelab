@@ -1,2 +1,1 @@
-# proxmox-homelab
-Repo for everything related to proxmox
+# Proxmox Homelab Automation
